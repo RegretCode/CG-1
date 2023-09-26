@@ -21,7 +21,7 @@ Certifique-se de ter um navegador compatível com WebGL2 para visualizar este ex
    - Os modelos OBJ animados na cena também têm movimento próprio.
    - Você pode ajustar a duração e a curva do caminho de spline no arquivo `script.js`.
 
-Utilize esse [link](https://regretcode.github.io/CG-1/) para visualizar no browser.
+Utilize esse [link](https://regretcode.github.io/CG-1/) para visualizar no browser (obs. pode demorar um pouco para carregar).
 
 ## Créditos
 
