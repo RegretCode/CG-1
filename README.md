@@ -17,11 +17,11 @@ Certifique-se de ter um navegador compatível com WebGL2 para visualizar este ex
 2. Abra o arquivo `index.html` em um navegador da web compatível com WebGL2.
 3. Usando no VSC certifique-se de ter o Live Server instalado e use o comando: Alt + L Alt + O
 4. Interaja com a cena:
-   - O movimento da câmera é controlado por um caminho de spline de bezier definido em `spline.js`.
+   - O movimento da câmera é controlado por um caminho de spline de bezier definido em `script.js`.
    - Os modelos OBJ animados na cena também têm movimento próprio.
-   - Você pode ajustar a duração e a curva do caminho de spline no arquivo `spline.js`.
+   - Você pode ajustar a duração e a curva do caminho de spline no arquivo `script.js`.
 
-Utilize esse [link]() para visualizar no browser.
+Utilize esse [link](http://optcalillusion.com/) para visualizar no browser.
 
 ## Créditos
 
@@ -42,4 +42,4 @@ Este exemplo foi criado com base no códigos do:
 
 ## Licença
 
-Este projeto está licenciado sob a Licença MIT. Consulte o arquivo `[LICENSE](https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt)` para obter mais informações.
+Este projeto está licenciado sob a Licença MIT. Consulte o arquivo [LICENSE](https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt) para obter mais informações.
