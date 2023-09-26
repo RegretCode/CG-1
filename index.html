@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Optical Illusion</title>
+</head>
+
+<body>
+    <canvas class="webgl" id="canvas" width="1280" height="720"></canvas>
+    <input type="range" min="0" max="360" step="1" value="0" id="cameraSlider">
+    <button id="animateButton">GO!</button>
+    <p id="actual"></p>
+    <p id="list"></p>
+    <input type="number" id="timeInput" min="1000" max="10000" step="0.1" value="1000">
+
+
+    <script src="https://webgl2fundamentals.org/webgl/resources/twgl-full.min.js"></script>
+    <script src="https://webgl2fundamentals.org/webgl/resources/m4.js"></script>
+    <script src="https://webgl2fundamentals.org/webgl/resources/m3.js"></script>
+
+    <script type="module" src="script.js"></script>
+</body>
+
+</html>
